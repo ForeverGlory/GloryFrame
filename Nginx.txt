@@ -1,0 +1,4 @@
+#
+# Nginx Nginx.txt
+# todo 配置Nginx 禁止浏览器访问该目录
+#

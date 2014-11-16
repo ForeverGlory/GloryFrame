@@ -1,0 +1,4 @@
+#
+# Apache .htaccess
+# 
+Deny from all
