@@ -4,3 +4,5 @@
 /builds/sites/*
 /builds/versions/*
 /builds/web/*
+/sources/modules/contrib
+/sources/modules/custom
